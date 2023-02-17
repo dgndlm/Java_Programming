@@ -12,8 +12,17 @@ print all variables
 
 --------------------------------------------------------------------------
      */
-    
+    public static void main(String[] args) {
+
+
     String brand = "Iphone" ;
     boolean isWireless = true ;
     String batteryLevel = "High";
+    double price = 350.0 ;
+    int warranty = 2;
+    String color = "Silver" ;
+    int length = 4 ;
+
+
 }
+ }
